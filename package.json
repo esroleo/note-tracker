@@ -1,0 +1,29 @@
+{
+  "name": "note-tracker",
+  "version": "1.0.0",
+  "description": "Track your notes via HTTP request express and json",
+  "main": "server.js",
+  "directories": {
+    "lib": "lib"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/esroleo/note-tracker.git"
+  },
+  "keywords": [
+    "note-tracker"
+  ],
+  "author": "Esteban Romero",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/esroleo/note-tracker/issues"
+  },
+  "homepage": "https://github.com/esroleo/note-tracker#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
