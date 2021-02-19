@@ -2,7 +2,7 @@
 const router = require('express').Router();
 
 //const { filterByQuery, findById, createNewAnimal, validateAnimal } = require('../../lib/animals');
-const { createNewNote, validateNote } = require('../../lib/notes');
+const { createNewNote, validateNote, findById } = require('../../lib/notes');
 const { notes } = require('../../db/db');
 
 //console.log(notes)
@@ -21,18 +21,19 @@ router.post('/notes', (req, res) => {
   const note = createNewNote(req.body, notes);
   res.json(note);
    
-  // // if any data in req.body is incorrect, send 400 error back
-  // if (!validateNote(req.body)) {
-  //   res.status(400).send('The note is not properly formatted.');
-  // } else {
-  // // add animal to json file and animals array in this function
-  // const note = createNewNote(req.body, animals);
-  // res.json(note);
-  // //res.json(req.body);
-  // }
+
 });
 
+router.delete('/notes/:id', function (req, res) {
 
+  // https://www.codota.com/code/javascript/functions/express/Express/delete
+  const { id } = req.params;
+  const projectIndex = notes.findIndex(notes => notes.id == id);
+  notes.splice(projectIndex, 1);
+  //console.log(res.send())
+  return res.send();
+
+})
 
 module.exports  = router;
 
