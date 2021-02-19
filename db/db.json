@@ -1,26 +1,6 @@
 {
   "notes": [
     {
-      "title": "aetaset",
-      "text": "asetasetaset",
-      "id": "3"
-    },
-    {
-      "title": "atsetaset",
-      "text": "aateatse",
-      "id": "4"
-    },
-    {
-      "title": "adsfasdf",
-      "text": "asfdsafdf",
-      "id": "2"
-    },
-    {
-      "title": "adfasdf",
-      "text": "dasfasdfsa",
-      "id": "3"
-    },
-    {
       "title": "adsfasdfasdfasf",
       "text": "ads",
       "id": "4"
@@ -34,6 +14,11 @@
       "title": "asdfasdf",
       "text": "asdfasdfas",
       "id": "6"
+    },
+    {
+      "title": "I am new here",
+      "text": "hello",
+      "id": "3"
     }
   ]
 }
