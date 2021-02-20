@@ -45,19 +45,19 @@ Then copy and paste the following to your browser http://localhost:3001/
 <a name="features"></a>
 ## 4. Features
 
-### Add note Structure
+### Add note to "Note Title" and "Note Text" to fill out your note and click save using the save icon.
 ![step](./public/assets/images/note-to-be-added-1.JPG?raw=true "note-to-be-added-1.JPG")
 
-### Note Saved by clicking on the save icon
+### Note Saved by clicking on the save icon.
 ![step](./public/assets/images/note-to-be-added-1-left-column.JPG?raw=true "note-to-be-added-1-left-column.JPG")
 
-### Click on left column span element to load the note
+### Click on left column span element to load the note. You can click on the pencil to add a new note, then save the note as described.
 ![step](./public/assets/images/note-to-be-added-1-left-column-clicked.JPG?raw=true "note-to-be-added-1-left-column-clicked.JPG")
 
-### New note added
+### New note added. 
 ![step](./public/assets/images/note-to-be-added-2-left-column-clicked.JPG?raw=true "note-to-be-added-2-left-column-clicked.JPG")
 
-### Click on the garbage icon to delete any note
+### Click on the garbage icon to delete any note.
 ![step](./public/assets/images/note-to-be-added-1-deleted.JPG?raw=true "note-to-be-added-1-deleted.JPG")
 
 
