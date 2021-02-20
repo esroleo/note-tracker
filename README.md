@@ -43,15 +43,21 @@ Then copy and paste the following to your browser http://localhost:3001/
 <a name="features"></a>
 ## 4. Features
 
-### File Structure
-![step](./assets/images/file-structure.JPG?raw=true "file-structure.JPG")
+### Add note Structure
+![step](./public/assets/images/note-to-be-added-1.JPG?raw=true "note-to-be-added-1.JPG")
 
-### How to run
-![step](./assets/images/how-to-run.JPG?raw=true "how-to-run.JPG")
+### Note Saved by clicking on the save icon
+![step](./public/assets/images/note-to-be-added-1-left-column.JPG?raw=true "note-to-be-added-1-left-column.JPG")
 
-### Sample team builder HTML
+### Click on left column span element to load the note
+![step](./public/assets/images/note-to-be-added-1-left-column-clicked.JPG?raw=true "note-to-be-added-1-left-column-clicked.JPG")
 
-![step](./assets/images/dist-index-html.JPG?raw=true "dist-index-html.JPG")
+### New note added
+![step](./public/assets/images/note-to-be-added-2-left-column-clicked.JPG?raw=true "note-to-be-added-2-left-column-clicked.JPG")
+
+### Click on the garbage icon to delete any note
+![step](./public/assets/images/note-to-be-added-1-deleted.JPG?raw=true "note-to-be-added-1-deleted.JPG")
+
 
 <a name="credits"></a>
 ## 5. Credits
@@ -66,7 +72,7 @@ mit
 <a name="commandInstall"></a>
 ## 7. Install Command
 
-### Dependencies are Inquirer and Jest
+### Dependencies is express 
 ### npm install command will install dependencies
 
 npm i
