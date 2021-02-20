@@ -19,8 +19,6 @@
 <a name="desc"></a>
 ## 1. Description
 
-### Top technology used:  ![badmath](https://img.shields.io/github/languages/top/nielsenjared/badmath)
-
 This project was created using Express, heroku, uuid in javascript. This allowed fetch from client side to be routed using express routing.
 HTTP request queries were serverd with json req and res functionality.
 
