@@ -1,29 +1,3 @@
 {
-  "notes": [
-    {
-      "title": "test",
-      "text": "test",
-      "id": "2BTWgCA5RdndMMg5MxwWKH"
-    },
-    {
-      "title": "New note to test ",
-      "text": "testet",
-      "id": "EsqiAtZCrjFc2LcNZPz56B"
-    },
-    {
-      "title": "test to edit",
-      "text": "test to edit",
-      "id": "uop85gAbKvTBA6ePowyt2J"
-    },
-    {
-      "title": "dasfasedf",
-      "text": "adsfasdfasdf",
-      "id": "nJ9eWSyMGFHNWysqPiNs27"
-    },
-    {
-      "title": "New note to updated",
-      "text": "New note to test ",
-      "id": "Gq1sUkcJsRdW2ZFhMC3KKc"
-    }
-  ]
+  "notes": []
 }
