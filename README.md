@@ -22,6 +22,10 @@
 This project was created using Express, heroku, uuid in javascript. This allowed fetch from client side to be routed using express routing.
 HTTP request queries were serverd with json req and res functionality.
 
+### Major tech snapshot
+
+![tech](./public/assets/images/technologies-used.JPG?raw=true "technologies-used.JPG")
+
 <a name="web-address"></a>
 ## 2. How to Get There
 
