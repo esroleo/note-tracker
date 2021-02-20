@@ -24,6 +24,7 @@
   },
   "homepage": "https://github.com/esroleo/note-tracker#readme",
   "dependencies": {
-    "express": "^4.17.1"
+    "express": "^4.17.1",
+    "uuid-key-generator": "^0.3.3"
   }
 }
