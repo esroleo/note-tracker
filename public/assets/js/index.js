@@ -57,8 +57,8 @@ const renderActiveNote = () => {
     // There seems to be another user case for this
     // WHEN I click on the Write icon in the navigation at the top of the page
     // THEN I am presented with empty fields to enter a new note title and the note’s text in the right-hand column .... what happends ? Is missing text from the criteria
-    noteTitle.setAttribute('readonly', true);
-    noteText.setAttribute('readonly', true);
+    // noteTitle.setAttribute('readonly', true);
+    // noteText.setAttribute('readonly', true);
       
     noteTitle.value = activeNote.title;
     noteText.value = activeNote.title;
