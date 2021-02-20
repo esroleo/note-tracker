@@ -13,9 +13,4 @@ router.get('/', (req, res) => {
     res.sendFile(path.join(__dirname, '../../public/notes.html'));
   });
   
-  /// *** Serve route to the zookeepers.hml
-  router.get('/zookeepers', (req, res) => {
-    res.sendFile(path.join(__dirname, '../../public/zookeepers.html'));
-  });
-
 module.exports = router;
