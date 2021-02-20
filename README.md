@@ -76,7 +76,7 @@ mit
 <a name="commandInstall"></a>
 ## 7. Install Command
 
-### Dependencies is express 
+### Dependency is express 
 ### npm install command will install dependencies
 
 npm i
