@@ -51,7 +51,7 @@ Then copy and paste the following to your browser http://localhost:3001/
 ### Note Saved by clicking on the save icon.
 ![step](./public/assets/images/note-to-be-added-1-left-column.JPG?raw=true "note-to-be-added-1-left-column.JPG")
 
-### Click on left column span element to load the note. You can click on the pencil to add a new note, then save the note as described.
+### Click on left column text span element to load the note. You can click on the pencil to add a new note, then save the note as described.
 ![step](./public/assets/images/note-to-be-added-1-left-column-clicked.JPG?raw=true "note-to-be-added-1-left-column-clicked.JPG")
 
 ### New note added. 
